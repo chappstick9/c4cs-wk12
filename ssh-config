@@ -1,0 +1,6 @@
+#CAEN
+Host ch
+	HostName login.engin.umich.edu
+	User chapp
+	Compression yes
+
